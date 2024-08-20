@@ -70,6 +70,15 @@ h6 {
   scroll-behavior: smooth;
 }
 
+a {
+  text-decoration: none;
+  color: #d8f3dc;
+}
+
+li {
+  list-style-type: square;
+}
+
 .container {
   color: #d8f3dc;
   background-color: #081c15;
@@ -90,15 +99,8 @@ nav {
 .nav-left {
   display: flex;
 }
-.nav-right a,
-.nav-left a {
-  text-decoration: none;
-  color: #d8f3dc;
-}
 
 .nav-heading {
-  text-decoration: none;
-  color: #d8f3dc;
   font-size: 1.4rem;
 }
 
@@ -123,7 +125,7 @@ nav {
 }
 
 .fa-github:hover {
-  color: black;
+  color: slategrey;
 }
 
 .mobile-links {
@@ -144,12 +146,30 @@ nav {
 }
 
 #about {
-  height: 60vh;
+  height: 80vh;
   width: 100vw;
   background-color: #1b4332;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+#projects {
+  height: 95vh;
+  width: 100vw;
+  background-color: #588157;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  height: 5vh;
+  background-color: #588157;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media only screen and (max-width: 600px) {
@@ -172,20 +192,21 @@ nav {
     font-size: 2rem;
   }
 
-  .mobile-links a {
-    text-decoration: none;
-    color: #d8f3dc;
-  }
   .mobile-links a i:hover {
     text-decoration: none;
     color: #d8f3dc;
   }
 
   #about {
-    text-align: center;
+    text-align: left;
+    height: 100vh;
   }
 
-  #about ul {
+  #projects {
     text-align: left;
+  }
+
+  #projects li {
+    padding-bottom: 10px;
   }
 }
