@@ -74,6 +74,8 @@ h6 {
   color: #d8f3dc;
   background-color: #081c15;
   font-family: "Poppins", sans-serif;
+  /* fixes chromium scroll issue */
+  overflow: hidden;
 }
 
 nav {
