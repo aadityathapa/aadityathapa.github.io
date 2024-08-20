@@ -108,6 +108,26 @@ nav {
   gap: 1vw;
 }
 
+.nav-left a {
+  font-size: 1.6rem;
+}
+
+.fa-youtube-play:hover {
+  color: crimson;
+}
+
+.fa-instagram:hover {
+  color: royalblue;
+}
+
+.fa-github:hover {
+  color: black;
+}
+
+.mobile-links {
+  display: none;
+}
+
 #intro {
   height: 94vh;
   width: 100vw;
@@ -139,6 +159,24 @@ nav {
   }
   #intro {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .mobile-links {
+    display: flex;
+    gap: 3rem;
+    font-size: 2rem;
+  }
+
+  .mobile-links a {
+    text-decoration: none;
+    color: #d8f3dc;
+  }
+  .mobile-links a i:hover {
+    text-decoration: none;
+    color: #d8f3dc;
   }
 
   #about {
