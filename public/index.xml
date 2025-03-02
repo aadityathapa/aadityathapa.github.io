@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Aaditya Thapa</title>
+    <link>https://aadityathapa.github.io/</link>
+    <description>Recent content in Home on Aaditya Thapa</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aadityathapa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Questions That Will Change Your Life</title>
+      <link>https://aadityathapa.github.io/posts/1/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aadityathapa.github.io/posts/1/</guid>
+      <description>What are the two questions that only you know the answer to?</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://aadityathapa.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aadityathapa.github.io/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>https://aadityathapa.github.io/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aadityathapa.github.io/library/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Alchemist_(novel)&#34;&gt;The Alchemist&lt;/a&gt; &lt;br&gt;&#xA;Inspiring novel that follows a young shepherd&amp;rsquo;s journey to find his personal legend and the deeper meaning of life.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
