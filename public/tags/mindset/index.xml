@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aaditya Thapa</title>
-    <link>https://aadityathapa.github.io/posts/</link>
-    <description>Recent content in Posts on Aaditya Thapa</description>
+    <title>Mindset on Aaditya Thapa</title>
+    <link>http://localhost:1313/tags/mindset/</link>
+    <description>Recent content in Mindset on Aaditya Thapa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aadityathapa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mindset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Alchemist: The Power of Omens and Personal Growth</title>
-      <link>https://aadityathapa.github.io/posts/1/</link>
+      <link>http://localhost:1313/posts/1/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://aadityathapa.github.io/posts/1/</guid>
+      <guid>http://localhost:1313/posts/1/</guid>
       <description>Recognizing omens and stepping out of the comfort zone is key to shaping our future. &lt;em&gt;The Alchemist&lt;/em&gt; teaches us the importance of staying present, learning through experience, and embracing our personal legend.</description>
     </item>
   </channel>

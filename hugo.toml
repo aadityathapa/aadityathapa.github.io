@@ -57,9 +57,9 @@ url = "https://www.instagram.com/aadi_tyathapa"
 name = "home"
 url = "/"
 
-#[[params.menu]]
-#name = "posts"
-#url = "/posts"
+[[params.menu]]
+name = "posts"
+url = "/posts"
 
 #[[params.menu]]
 #name = "about"
