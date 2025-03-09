@@ -4,7 +4,7 @@ title = 'Aaditya Thapa'
 theme = 'typo'
 
 # Google analytics code
-#googleAnalytics = "G-xxxxxxxxx"
+googleAnalytics = "G-8ZDGPQLE31"
 
 [taxonomies]
 tag = 'tags'
@@ -57,9 +57,9 @@ url = "https://www.instagram.com/aadi_tyathapa"
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+#[[params.menu]]
+#name = "posts"
+#url = "/posts"
 
 #[[params.menu]]
 #name = "about"

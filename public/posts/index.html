@@ -51,6 +51,20 @@
 
 
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8ZDGPQLE31"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8ZDGPQLE31');
+        }
+      </script>
 
 
 
@@ -87,13 +101,6 @@
         <p class="small ">
             <a href="/" >
                 /home
-            </a>
-        </p>
-        
-      
-        <p class="small  bold ">
-            <a href="/posts" >
-                /posts
             </a>
         </p>
         
@@ -155,12 +162,12 @@
     <div>
         <p class="line-title">
             <a href="/posts/1/">
-                Two Questions That Will Change Your Life
+                Title
             </a>
         </p>
 
         
-        <p class="line-summary"> What are the two questions that only you know the answer to? </p>
+        <p class="line-summary"> Summary </p>
         
     </div>
 </div>
